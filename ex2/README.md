@@ -1,6 +1,6 @@
-#Ex2
+# Ex2
 
-##Part 1 api:
+## Part 1 api:
 
 We are building a directed weighted graph implementation with a number of features and classes.
  
